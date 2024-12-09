@@ -26,4 +26,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Result
 
+![image](https://github.com/user-attachments/assets/74355238-fd71-430a-bb9a-de1c70f72534)
+
 # Output 
+
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
